@@ -1,0 +1,6 @@
+{
+  "name": "Date Range Month Tracker",
+  "description": "Track date ranges, loans, and commitments to monitor exact months and time remaining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
